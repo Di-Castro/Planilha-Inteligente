@@ -11,7 +11,7 @@ Projeto com o objetivo de gerar uma planilha no Excel inteligente e ao final ela
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [Excel](https://notebooklm.google.com/)
+- [Excel](https://m365.cloud.microsoft/)
 - [ChatGPT](https://chatgpt.com/) 
 
 
